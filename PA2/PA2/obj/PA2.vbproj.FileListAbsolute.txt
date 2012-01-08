@@ -1,0 +1,18 @@
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\PA2.Form1.resources
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\PA2.Resources.resources
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\PA2.vbproj.GenerateResource.Cache
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\bin\Debug\Personal Assistent.exe
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\bin\Debug\Personal Assistent.pdb
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\bin\Debug\Personal Assistent.xml
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\Personal Assistent.exe
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\Personal Assistent.xml
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\Personal Assistent.pdb
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\PA2.vbproj.ResolveComReference.cache
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\bin\Debug\Interop.CDO.dll
+C:\Users\Hiranmoy\Documents\Visual Studio 2005\Projects\PA2\PA2\obj\Debug\Interop.CDO.dll
+K:\PA\PA2\PA2\obj\Debug\Personal Assistent.exe
+K:\PA\PA2\PA2\obj\Debug\Personal Assistent.xml
+K:\PA\PA2\PA2\obj\Debug\Personal Assistent.pdb
